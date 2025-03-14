@@ -1,3 +1,17 @@
+# Projects Hub
+
+This is my hub for all projects I've done. It will serve as a display for anyone interested in my work. Any project present on this page is not allowed to be used for any purposes or commercialized.
+
+I don't allow it to be used as a template or to be commercialized.
+
+## Languges & Libraries
+
+I'm using TypeScript and Javascript with React and the build tool Vite for the core of the project. Other libraries that is being used is:
+
+- Bootstrap
+
+##  Readme template
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
